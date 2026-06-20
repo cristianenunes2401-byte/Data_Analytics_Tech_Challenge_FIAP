@@ -56,8 +56,8 @@ Conclusões e Recomendações:
 
 O negócio cresce em escala, mas não em valor distribuído. A estratégia deve se apoiar em três pilares:
 
-Descentralização logística — criação de hubs regionais em MG e PR para reduzir custos e prazos.
+Descentralização logística - criação de hubs regionais em MG e PR para reduzir custos e prazos.
 
-Fidelização e reativação — transformar satisfação em recompra com programas de relacionamento.
+Fidelização e reativação - transformar satisfação em recompra com programas de relacionamento.
 
-Gestão de margem e ticket médio — explorar upsell e combos para aumentar valor por pedido.
+Gestão de margem e ticket médio - explorar upsell e combos para aumentar valor por pedido.
