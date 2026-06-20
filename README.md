@@ -1,13 +1,17 @@
-Projeto de Análise Comercial Olist -
+Projeto de Análise Comercial Olist:
+
 Trabalho desenvolvido como parte da Fase 1 da Pós-graduação em Data Analytics pela FIAP.
 
-Objetivo
+Objetivo:
+
 Construir uma visão integrada do desempenho comercial da Olist, avaliando receita, retenção, satisfação e distribuição geográfica, para identificar gargalos e oportunidades de expansão.
 
-Base de Dados
+Base de Dados:
+
 Dataset público da Olist (pedidos, clientes, sellers, entregas e avaliações).
 
-Metodologia
+Metodologia:
+
 Estatística descritiva e análise exploratória (EDA)
 
 Criação de indicadores de receita, ticket médio e retenção
@@ -16,7 +20,8 @@ Visualização de dados com gráficos comparativos e rankings
 
 Interpretação estratégica dos resultados
 
-Etapas Realizadas
+Etapas Realizadas:
+
 Junção e preparação dos dados
 
 Construção de métricas de desempenho (receita, ticket médio, satisfação)
