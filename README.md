@@ -32,14 +32,16 @@ Geração de gráficos para correlação entre receita e satisfação
 
 Elaboração de recomendações estratégicas
 
-Ferramentas Utilizadas
+Ferramentas Utilizadas:
+
 Python (Jupyter Notebook / Google Colab)
 
 Pandas, NumPy
 
 Matplotlib, Seaborn
 
-Principais Insights
+Principais Insights:
+
 Dependência de São Paulo: concentra entre 37% e 50% da receita, expondo risco de saturação.
 
 Baixa retenção: 97% dos clientes compram apenas uma vez, tornando o crescimento dependente de aquisição.
@@ -50,7 +52,8 @@ Potencial em MG, RJ e PR: estados com participação relevante e notas médias d
 
 Produtos líderes em volume: categorias como bed_bath_table e health_beauty sustentam pedidos, mas não necessariamente margem.
 
-Conclusões e Recomendações
+Conclusões e Recomendações:
+
 O negócio cresce em escala, mas não em valor distribuído. A estratégia deve se apoiar em três pilares:
 
 Descentralização logística — criação de hubs regionais em MG e PR para reduzir custos e prazos.
