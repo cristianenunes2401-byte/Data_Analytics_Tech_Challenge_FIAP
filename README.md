@@ -1,4 +1,4 @@
-Projeto de Análise Comercial Olist
+Projeto de Análise Comercial Olist -
 Trabalho desenvolvido como parte da Fase 1 da Pós-graduação em Data Analytics pela FIAP.
 
 Objetivo
